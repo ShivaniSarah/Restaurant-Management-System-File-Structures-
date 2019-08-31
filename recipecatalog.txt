@@ -1,0 +1,10 @@
+1|Masala Dosa
+2|Idli
+3|Aloo Paratha
+4|Pasta
+5|Matar Paneer
+6|Mix Veg
+7|Fried Rice
+8|Puliyogare
+9|Rajma Masala
+10|Chicken Biryani

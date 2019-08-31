@@ -1,0 +1,4 @@
+s1|Katrina groceries|e-city|987654321|grocery
+s2|Alia veggies|hosur|987654123|vegetable
+s3|Ramya shop|majestic|987654231|meat
+s4|Mother dairy|m-park|987654253|dairy

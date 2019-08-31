@@ -1,0 +1,19 @@
+Urad Dal|0
+Rice|45
+Wheat Flour|86
+Penne Pasta|134
+Potato|181
+Tomato|225
+Onion|269
+Beans|312
+Cauliflower|355
+Carrot|404
+Cabbage|448
+Chicken|493
+Peanut|533
+Ketchup|575
+Paneer|618
+Peas|658
+Capsicum|700
+Tamarind|746
+Kidney Beans|790

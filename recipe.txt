@@ -1,0 +1,33 @@
+Masala Dosa|Urad Dal|50|5
+Masala Dosa|Rice|100|5
+Masala Dosa|Potato|100|5
+Masala Dosa|Onion|30|5				
+Idli|Rice|100|10
+Idli|Urad Dal|25|10		
+Aloo Paratha|Wheat Flour|100|5
+Aloo Paratha|Potato|150|5
+Aloo Paratha|Onion|50|5
+Pasta|Penne Pasta|150|15
+Pasta|Tomato|50|15
+Pasta|Ketchup|20|15
+Pasta|Onion|30|15
+Matar Paneer|Paneer|200|20
+Matar Paneer|Peas|50|20
+Matar Paneer|Tomato|50|20
+Mix Veg|Potato|100|20
+Mix Veg|Cauliflower|50|20
+Mix Veg|Capsicum|50|20
+Mix Veg|Carrot|50|20		
+Fried Rice|Rice|150|15
+Fried Rice|Beans|30|15
+Fried Rice|Cabbage|50|15
+Puliyogare|Rice|150|20
+Puliyogare|Peanut|40|20
+Puliyogare|Tamarind|10|20
+Rajma Masala|Kidney Beans|100|20
+Rajma Masala|Tomato|30|20
+Rajma Masala|Onion|20|20
+Chicken Biryani|Rice|150|25
+Chicken Biryani|Chicken|150|25
+Chicken Biryani|Tomato|30|25
+Chicken Biryani|Onion|30|25

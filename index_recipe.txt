@@ -1,0 +1,33 @@
+Masala Dosa|0
+Masala Dosa|27
+Masala Dosa|51
+Masala Dosa|77
+Idli|105
+Idli|123
+Aloo Paratha|146
+Aloo Paratha|178
+Aloo Paratha|205
+Pasta|230
+Pasta|256
+Pasta|276
+Pasta|297
+Matar Paneer|316
+Matar Paneer|344
+Matar Paneer|369
+Mix Veg|396
+Mix Veg|419
+Mix Veg|446
+Mix Veg|470
+Fried Rice|494
+Fried Rice|518
+Fried Rice|542
+Puliyogare|568
+Puliyogare|592
+Puliyogare|617
+Rajma Masala|644
+Rajma Masala|678
+Rajma Masala|705
+Chicken Biryani|731
+Chicken Biryani|760
+Chicken Biryani|792
+Chicken Biryani|822
